@@ -1,3 +1,10 @@
+# my note
+  https://mchirico.github.io/python/2020/08/22/k8s.html
+  kubectl run shell --rm -i --tty --image ubuntu -- bash
+  cd /tmp
+  wget https://github.com/genuinetools/amicontained/releases/download/v0.4.7/amicontained-linux-amd64; chmod 555 amicontained-linux-amd64; ./amicontained-linux-amd64
+
+# ** END **
 # amicontained
 
 [![make-all](https://github.com/genuinetools/amicontained/workflows/make%20all/badge.svg)](https://github.com/genuinetools/amicontained/actions?query=workflow%3A%22make+all%22)
